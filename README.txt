@@ -1,3 +1,5 @@
+##########################################
+##########################################
 # initial environment
 $>npm init
 
@@ -6,3 +8,8 @@ $> npm install mocha ganache-cli web3
 
 # install solidity compiler version 0.4.17
 $> npm install solc@0.4.17
+
+##########################################
+##########################################
+# executing test
+$> npm run test
