@@ -1,3 +1,6 @@
+# initial environment
+$>npm init
+
 # install mocha, web3 and ganache module
 $> npm install mocha ganache-cli web3
 
